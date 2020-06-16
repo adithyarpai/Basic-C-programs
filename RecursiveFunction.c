@@ -1,4 +1,4 @@
-//Sum of digits a number using recursive function
+//Sum of digits of number using recursive function
 #include <stdio.h> 
 int sum(int n) 
 { 
