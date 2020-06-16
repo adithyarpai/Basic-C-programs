@@ -1,4 +1,4 @@
-//Enter elements into a matrix using arrays
+//Enter elements into a matrix and find the sum of its diagonals
 #include<stdio.h>
 
 void inputMatrix(int size,int matrix[][10]);
